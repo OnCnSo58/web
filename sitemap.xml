@@ -1,99 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://orionnovo.com/index.html</loc>
+		<loc>https://banibuba.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://orionnovo.com/services.html</loc>
+		<loc>https://banibuba.com/about.html</loc>
 	</url>
 	<url>
-		<loc>http://orionnovo.com/contacts.html</loc>
+		<loc>https://banibuba.com/contacts.html</loc>
 	</url>
 	<url>
-		<loc>http://orionnovo.com/about.html</loc>
+		<loc>https://banibuba.com/services.html</loc>
 	</url>
-
-	<url>
-		<loc>http://orionnovo.com/eninsights/insights.html</loc>
-	</url>
-
-
-
-	<url>
-		<loc>http://orionnovo.com/ru/index.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/ru/services.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/ru/contacts.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/ru/about.html</loc>
-	</url>
-
-	<url>
-		<loc>http://orionnovo.com/ruinsights/insights.html</loc>
-	</url>
-
-
-	<url>
-		<loc>http://orionnovo.com/es/index.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/es/services.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/es/contacts.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/es/about.html</loc>
-	</url>
-
-	<url>
-		<loc>http://orionnovo.com/esinsights/insights.html</loc>
-	</url>
-
-
-
-
-
-	<url>
-		<loc>http://orionnovo.com/fr/index.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/fr/services.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/fr/contacts.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/fr/about.html</loc>
-	</url>
-
-	<url>
-		<loc>http://orionnovo.com/frinsights/insights.html</loc>
-	</url>
-
-
-
-	<url>
-		<loc>http://orionnovo.com/de/index.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/de/services.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/de/contacts.html</loc>
-	</url>
-	<url>
-		<loc>http://orionnovo.com/de/about.html</loc>
-	</url>
-
-	<url>
-		<loc>http://orionnovo.com/deinsights/insights.html</loc>
-	</url>
-
-
-
-
 </urlset>
