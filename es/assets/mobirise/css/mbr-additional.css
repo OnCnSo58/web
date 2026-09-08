@@ -1392,6 +1392,194 @@ a {
 .cid-vmoM00HLAm .mbr-section-title {
   color: #ffffff;
 }
+.cid-vuCh9G1Cpo {
+  display: flex;
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #b1e0ff;
+}
+.cid-vuCh9G1Cpo .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vuCh9G1Cpo .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vuCh9G1Cpo .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 992px) {
+  .cid-vuCh9G1Cpo .content-wrap {
+    padding: 5rem 3rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-vuCh9G1Cpo {
+    align-items: center;
+  }
+  .cid-vuCh9G1Cpo .row {
+    justify-content: center;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-vuCh9G1Cpo .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-vuCh9G1Cpo {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-vuCh9G1Cpo .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-vuCh9G1Cpo .content-wrap {
+    width: 100%;
+  }
+}
+.cid-vuCh9G1Cpo .mbr-section-title {
+  text-align: left;
+  color: #232323;
+}
+.cid-vuCh9G1Cpo .mbr-text,
+.cid-vuCh9G1Cpo .mbr-section-btn {
+  text-align: left;
+  color: #232323;
+}
+.cid-vuChank2R4 {
+  background-color: #b1e0ff;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.cid-vuChank2R4 .carousel {
+  width: 100%;
+}
+.cid-vuChank2R4 .carousel-inner {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+.cid-vuChank2R4 .carousel-item img {
+  height: 100vh;
+  object-fit: cover;
+}
+.cid-vuChank2R4 img,
+.cid-vuChank2R4 .item-wrapper {
+  border-radius: 0 !important;
+}
+.cid-vuChank2R4 .carousel-caption {
+  bottom: 40px;
+  z-index: 1;
+}
+.cid-vuChank2R4 .mobi-mbri-arrow-next {
+  margin-left: 5px;
+}
+.cid-vuChank2R4 .mobi-mbri-arrow-prev {
+  margin-right: 5px;
+}
+.cid-vuChank2R4 .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+.cid-vuChank2R4 .item-wrapper {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-vuChank2R4 .container .carousel-control {
+    margin-bottom: 0;
+  }
+  .cid-vuChank2R4 .content-slider-wrap {
+    width: 100% !important;
+  }
+}
+.cid-vuChank2R4 .container .carousel-indicators {
+  margin-bottom: 3px;
+}
+.cid-vuChank2R4 .carousel-control {
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.cid-vuChank2R4 .carousel-control.carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-vuChank2R4 .carousel-control.carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-vuChank2R4 .carousel-control {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-vuChank2R4 .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 1.5rem !important;
+}
+.cid-vuChank2R4 .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
+}
+.cid-vuChank2R4 .carousel-indicators li.active,
+.cid-vuChank2R4 .carousel-indicators li:hover {
+  opacity: 0.9;
+}
+.cid-vuChank2R4 .carousel-indicators li::after,
+.cid-vuChank2R4 .carousel-indicators li::before {
+  content: none;
+}
+.cid-vuChank2R4 .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-vuChank2R4 .carousel-indicators {
+    display: none !important;
+  }
+}
+@media (max-width: 991px) {
+  .cid-vuChank2R4 .mbr-section-subtitle,
+  .cid-vuChank2R4 .mbr-section-text,
+  .cid-vuChank2R4 .mbr-section-btn {
+    text-align: center;
+  }
+}
+.cid-vuChank2R4 .mbr-section-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-vuChank2R4 .mbr-section-text,
+.cid-vuChank2R4 .mbr-section-btn {
+  text-align: left;
+}
 .cid-vlbF4LQfVD {
   padding-top: 10rem;
   padding-bottom: 10rem;
