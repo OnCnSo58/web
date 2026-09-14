@@ -181,9 +181,9 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #9fe870 !important;
-  border-color: #9fe870 !important;
-  color: #264d0c !important;
+  background-color: #222222 !important;
+  border-color: #222222 !important;
+  color: #ffffff !important;
   box-shadow: none;
 }
 .btn-secondary:hover,
@@ -191,15 +191,15 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: inherit;
-  background-color: #bcef9c !important;
-  border-color: #bcef9c !important;
+  background-color: #3c3c3c !important;
+  border-color: #3c3c3c !important;
   box-shadow: none;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
-  color: #264d0c !important;
-  background-color: #bcef9c !important;
-  border-color: #bcef9c !important;
+  color: #ffffff !important;
+  background-color: #3c3c3c !important;
+  border-color: #3c3c3c !important;
 }
 .btn-info,
 .btn-info:active {
@@ -357,23 +357,23 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background-color: transparent !important;
-  border-color: #9fe870;
-  color: #9fe870;
+  border-color: #222222;
+  color: #222222;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #6ddc25 !important;
+  color: #000000 !important;
   background-color: transparent !important;
-  border-color: #6ddc25 !important;
+  border-color: #000000 !important;
   box-shadow: none !important;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
-  color: #264d0c !important;
-  background-color: #9fe870 !important;
-  border-color: #9fe870 !important;
+  color: #ffffff !important;
+  background-color: #222222 !important;
+  border-color: #222222 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -505,7 +505,7 @@ body {
   color: #ffffff !important;
 }
 .text-secondary {
-  color: #9fe870 !important;
+  color: #222222 !important;
 }
 .text-success {
   color: #b9c1cc !important;
@@ -533,7 +533,7 @@ a.text-primary.active {
 a.text-secondary:hover,
 a.text-secondary:focus,
 a.text-secondary.active {
-  color: #66d022 !important;
+  color: #000000 !important;
 }
 a.text-success:hover,
 a.text-success:focus,
@@ -689,8 +689,8 @@ blockquote {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #000000 !important;
-  background: #9fe870 !important;
+  color: #ffffff !important;
+  background: #222222 !important;
   box-shadow: none !important;
 }
 .lazy-bg {
